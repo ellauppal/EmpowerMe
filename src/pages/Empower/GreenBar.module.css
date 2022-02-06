@@ -1,0 +1,12 @@
+.green {
+
+    position: absolute;
+    width: 1889px;
+    height: 97px;
+    left: 0px;
+    top: 183px;
+    
+    background-repeat: no-repeat;
+    
+    background: url('../../images/green.png');
+  }

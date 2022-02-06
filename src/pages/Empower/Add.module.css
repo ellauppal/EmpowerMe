@@ -1,0 +1,108 @@
+.add {
+    position: absolute;
+    left: 5.02%;
+    right: 66.82%;
+    top: 30%;
+    bottom: 76.64%;
+
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 45px;
+    color: #8E8C8C;
+
+}
+
+.add1 {
+    position: absolute;
+    left: 5.02%;
+    right: 66.82%;
+    top: 42%;
+    bottom: 76.64%;
+
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 45px;
+    color: #8E8C8C;
+
+}
+
+.add2 {
+    position: absolute;
+    left: 5.02%;
+    right: 66.82%;
+    top: 54%;
+    bottom: 76.64%;
+
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 45px;
+    width: 11cm;
+    color: #8E8C8C;
+
+}
+
+.add3 {
+    position: absolute;
+    left: 52.82%;
+    right: 5.02%;
+    top: 30%;
+    bottom: 76.64%;
+
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 45px;
+    width: 10cm;
+    color: #8E8C8C;
+
+}
+
+.input2{
+    width: 21cm;
+    height: 6cm;
+    font-size: 36px;
+    border-radius: 10px;
+}
+
+input{
+    width: 21cm;
+    font-size: 36px;
+    border-radius: 10px;
+}
+.form{
+    width:30cm;
+}
+
+.btn{
+    position: absolute;
+    width: 775px;
+    height: 60px;
+    
+    left: 1010px;
+    top: 663px;
+    
+    
+    background: url('../../images/BTN.png');
+    transition: all 0.3s ease;
+}
+
+.btn:hover {
+  transform: scale(1.07);
+}
+
+.line{
+    position: absolute;
+    width: 1700px;
+    height: 0px;
+    left: 83px;
+    top: 823px;
+
+    border: 2px solid #E2E0E0;
+    }

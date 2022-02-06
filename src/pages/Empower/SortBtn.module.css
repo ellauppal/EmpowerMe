@@ -1,0 +1,9 @@
+.sort {
+    position: absolute;
+    width: 210px;
+    height: 255px;
+    left: 63px;
+    top: 916px;
+    
+    background: url('../../images/Sort.png');
+  }
