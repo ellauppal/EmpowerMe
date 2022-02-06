@@ -26,10 +26,17 @@ const blogTypes = [
 ]
 
 const Blog = () => {
+
     const displayBlogCards = blogTypes.map(blogTypes => {
         
         const displayParticularBlogCards = blogTypes.data.map(blogType => (
-            <BlogCard color={blogTypes.color} name={blogType.name} image={blogType.image}/>
+            <BlogCard 
+            color={blogTypes.color} 
+            name={blogType.name} 
+            image={blogType.image} 
+            subtitle={blogType.subtitle} 
+            about={blogType.about}
+        />
         ));
 
         return (
