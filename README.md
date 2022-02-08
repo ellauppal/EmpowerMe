@@ -8,7 +8,7 @@ On our empower page -> users can track every moment they feel empowered.
 
 Entries are stored in a database which users can go back and read anytime they are in need of empowerment.
 
-This project was created with React, Node, and Firebase.
+This project was created with **React, Node, and Firebase.
 
 ## Demo
 Youtube video link for website demo: https://youtu.be/MfyUw4YTzps
