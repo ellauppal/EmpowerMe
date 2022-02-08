@@ -1,3 +1,17 @@
+# EmpowerMe
+
+EmpowerMe is a site to Help women and other gender minorities fight imposter syndrome. 
+
+On our blog page, users can read empowering stories about women in STEM and view empowering content including tv shows and films. 
+
+Users can track every moment they feel empowered on our Empower Page. 
+
+Users' entries are stored in a database which they can go back and read anytime they are in need of empowerment.
+
+This project was created with React, Node, and Firebase.
+
+## Demo
+Youtube video link for website demo: https://youtu.be/MfyUw4YTzps
 
 # Home Page
 <img width="1114" alt="Screen Shot 2022-02-08 at 12 07 33 PM" src="https://user-images.githubusercontent.com/89555654/153039226-0afcd131-be25-4c07-9ab1-874796ae397a.png">
