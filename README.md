@@ -6,7 +6,9 @@
 
 # Blog Page
 <img width="347" alt="Screen Shot 2022-02-08 at 12 09 44 PM" src="https://user-images.githubusercontent.com/89555654/153039332-d36b9109-84b9-4801-bf35-50116a64f9a5.png">
-![Page3](https://user-images.githubusercontent.com/89555654/153039399-c3073955-03f2-4ce1-87ff-c7f3bf0a8c56.png)
+
+![Page3](https://user-images.githubusercontent.com/89555654/153039777-161ed073-588f-481d-809a-29e041149d30.png)
+
 
 # Empower Page
 <img width="1114" alt="Screen Shot 2022-02-08 at 12 09 12 PM" src="https://user-images.githubusercontent.com/89555654/153039461-2273ac22-0a79-4f10-b4f1-8cce51<img width="1111" alt="Screen Shot 2022-02-08 at 12 12 57 PM" src="https://user-images.githubusercontent.com/89555654/153039606-037bb5e4-a261-4d0d-8755-7cca72605c73.png">
