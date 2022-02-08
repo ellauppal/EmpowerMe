@@ -11,8 +11,10 @@
 
 
 # Empower Page
-<img width="1114" alt="Screen Shot 2022-02-08 at 12 09 12 PM" src="https://user-images.githubusercontent.com/89555654/153039461-2273ac22-0a79-4f10-b4f1-8cce51<img width="1111" alt="Screen Shot 2022-02-08 at 12 12 57 PM" src="https://user-images.githubusercontent.com/89555654/153039606-037bb5e4-a261-4d0d-8755-7cca72605c73.png">
-650776.png">
+
+<img width="1114" alt="Screen Shot 2022-02-08 at 12 09 12 PM" src="https://user-images.githubusercontent.com/89555654/153039893-a5483e04-d3dd-4be1-a557-6caa43778b8e.png">
+
+<img width="1111" alt="Screen Shot 2022-02-08 at 12 12 57 PM" src="https://user-images.githubusercontent.com/89555654/153039909-42c1344d-3d60-4bc8-a562-a3472d50b0ec.png">
 
 
 # Register Page
